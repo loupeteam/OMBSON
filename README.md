@@ -14,7 +14,7 @@ To install using the Loupe Package Manager (LPM), in an initialized Automation S
 
 ## Licensing
 
-This project is primarily licensed under the [MIT License](LICENSE.md). However, it includes components under the [Apache Group License v2](LICENSE-Apache.md). Please refer to the respective files for full license texts.
+This project is primarily licensed under the [MIT License](LICENSE). However, it includes components under the [Apache Group License v2](LICENSE-Apache-2.0). Please refer to the respective files for full license texts.
 
 -base64.cpp  
 -base64.h  
