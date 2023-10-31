@@ -1,3 +1,12 @@
+/*
+ * File: bson.cpp
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of OMBSON, licensed under the MIT License.
+ * 
+ */
+
 #include <string>
 #include "bsonobjbuilder.h"
 #include "bsonobjiterator.h"
