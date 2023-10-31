@@ -1,3 +1,12 @@
+/*
+ * File: endian.h
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of OMBSON, licensed under the MIT License.
+ * 
+ */
+
 /** note : endian support isn't done, but work is started / sketched out */
 
 #pragma once
